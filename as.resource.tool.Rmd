@@ -133,19 +133,19 @@ This is a placeholder for our key pegagogical resources. Here we aim to host tea
 
 * Transparent and Open Social Science Research; a free online course from Berkeley Initiative for Transparency in the Social Sciences https://www.bitss.org/mooc-parent-page/
 
-* Course Syllabi for Open and Reproducible Methods https://osf.io/vkhbt/
+* List of Course Syllabi for Open and Reproducible Methods https://osf.io/vkhbt/
 
 <br>
 
 **Existing Online Courses**
 
-* [Open Science MOOC](https://github.com/OpenScienceMOOC)
+* [Open Science MOOC](https://opensciencemooc.eu)
 
 <br>
 
 **Other relevant resources:**
 
-* Comprehensive crowdsourced resources on [**Meta-Analsysis**](https://docs.google.com/document/d/1oImg-ojUFqak5KyZ-ETD2qGvkvUgx8Ym6b8gG4GwfM8/edit) by John Sakaluk, Patrick Forscher, Katie Corker, Jin Goh, et al.
+* Comprehensive crowdsourced resources on [**Meta-Analysis**](https://docs.google.com/document/d/1oImg-ojUFqak5KyZ-ETD2qGvkvUgx8Ym6b8gG4GwfM8/edit) by John Sakaluk, Patrick Forscher, Katie Corker, Jin Goh, et al.
 
 * Comprehensive crowdsourced resources on [**Psychometrics**](https://docs.google.com/document/d/11jyoXtO0m2lUywpC04KjLvI5QcBUY4YtwEvw6cg2cMs/edit) by Eiko Fried & Jessica Flake
 
@@ -160,7 +160,7 @@ This is a placeholder for our key pegagogical resources. Here we aim to host tea
 
 FORRT recognizes the importance to democratize the access and development of teaching materials for open and reproducible science. For this, we conceive FORRT a centralized plataform containing a rich, diversified and update-able collection of teaching resources. These live, editable & crowdsourced resources should - in time - be able to provide a comprehensive and plural online library of teaching materials, as well as cater to the specificities of a variety of departments/universities. We also have verified - and will continue to - links, added relevant tags, and kept it organized as a mean to maximize and fulfill its supportive potential.
 
-To check out the resources we currently have, please see the spreasheet below, or [visit the downloadable database directly](https://docs.google.com/spreadsheets/d/16G02hzkWEWa_6qGNMmacCiB5cCPGhTk9A_bjGfla3RE/edit?usp=sharing)
+To check out the resources we currently have, please see the spreasheet below, or [visit the downloadable database directly](https://docs.google.com/spreadsheets/d/16G02hzkWEWa_6qGNMmacCiB5cCPGhTk9A_bjGfla3RE/edit?usp=sharing).
 
 If you would like to contribute to this database, please add the intended teaching resource(s) via this [Google Form](https://docs.google.com/forms/d/1ArZKezvrqZ9X7OhzxGbsOvzrwjBwCeBuFDyJWcXmvxs/).
 
