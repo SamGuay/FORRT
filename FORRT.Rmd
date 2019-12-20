@@ -30,9 +30,9 @@ output:
 
 Current norms for the teaching and mentoring of higher education are rooted in anachronistic practices of bygone eras. Improving the transparency and rigor of science is the responsibility of all who engage in it. Ongoing attempts to improve research credibility have, however, neglected an essential aspect of the academic cycle: the training of researchers and consumers of research. Principled teaching and mentoring involve imparting students with an understanding of research findings in light of probabilistic uncertainty, and moreover, an understanding of best practices in knowledge advancement. We introduce a Framework for Open and Reproducible Research Training (FORRT). Its main goal is to provide educators with a pathway towards the incremental adoption of principled teaching and mentoring practices, including open and reproducible research. FORRT will act as a resource to support instructors, collating existing teaching pedagogies and materials that may be reused and adapted for use within existing courses. Moreover, FORRT can be used as a tool to benchmark the current level of training students receive across six clusters of open and reproducible research practices: ‘reproducibility and replicability knowledge’, ‘conceptual and statistical knowledge’, ‘reproducible analyses’, ‘preregistration’, ‘open data and materials’, and ‘replication research’. FORRT will strive to be an advocate for the establishment of principled teaching and mentorship as a fourth pillar of a true scientific utopia. 
 
-Above is the abstract for our manuscript introducing FORRT [https://osf.io/bnh7p](https://osf.io/bnh7p). We welcome input on FORRT itself, and on the manuscript; you can access the working document here (please select suggested changes): [tinyURL.com/FORRTworkingDOC](tinyURL.com/FORRTworkingDOC).
+Above is the abstract for our manuscript introducing FORRT [https://osf.io/bnh7p](https://osf.io/bnh7p). We welcome input on FORRT itself, and on the manuscript; you can access the working document here (please select suggested changes): [tinyURL.com/FORRTworkingDOC](https://tinyURL.com/FORRTworkingDOC).
 
-We are actively seeking help to develop FORRT into the pedagogical resource we envisage. If you would like to help us support and advocate for teachers, please get in touch [here](FORRTproject@gmail.com). Please also see the '*implementation plan*' tab for more information on our current plans.
+We are actively seeking help to develop FORRT into the pedagogical resource we envisage. If you would like to help us support and advocate for teachers, please get in touch [here](mailto:FORRTproject@gmail.com). Please also see the '*implementation plan*' tab for more information on our current plans.
 
 
 <br><br>
@@ -185,12 +185,12 @@ Although not exhaustive, these concepts provide a broad coverage of each FORRT c
 
 Our developing implementation plan is as follows (we are also open to feedback and suggestions):
 
-* Continue to develop FORRT. The 'introduction to FORRT' manuscript [INSERT LINK](INSERT LINK) is intended as a starting point to elicit widespread feedback about the framework and its implementation.
-* Check with the community whether the pilot for the evaluation and its preliminary rankings can be improved upon. [INSERT LINK](INSERT LINK)
+* Continue to develop FORRT. The ['introduction to FORRT' manuscript](https://doi.org/10.31219/osf.io/bnh7p) is intended as a starting point to elicit widespread feedback about the framework and its implementation.
+* Check with the community whether the pilot for the evaluation and its preliminary rankings can be improved upon.
 * Invite course leaders to become the first adopters of FORRT; to submit their materials, to complete a pedagogical assessment of their courses, and to join us in FORRT
 * To invite diverse feedback on the optimal implemention of the educational NEXUS. Including assistance with website development. 
 
-We are actively seeking help to develop FORRT into the pedagogical resource we envisage. If you would like to help us support and advocate for teachers, please get in touch [here](FORRTproject@gmail.com).
+We are actively seeking help to develop FORRT into the pedagogical resource we envisage. If you would like to help us support and advocate for teachers, please get in touch [here](mailto:FORRTproject@gmail.com).
 
 
 ```{r eval = FALSE, include = FALSE}
